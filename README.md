@@ -42,3 +42,6 @@ With your predictive model, it is important to interpret the results to understa
 
 ## Folder Task 2
 This [folder](https://github.com/DuyDuong47/Forage-BritishAirways-DataScience/tree/2a272f9965114b8fce8b829773a2ab8e97d8404d/Task%202%20-%20Predicting%20customer%20buying%20behaviour) contains all the project files and resources for the British Airways Data Science Virtual Internship Task 2.
+
+# Completion Certificate
+[Certificate](https://github.com/DuyDuong47/Forage-BritishAirways-DataScience/blob/068890b3e5f7c96c5f4398c87f0bbf5098650320/NjynCWzGSaWXQCxSX_British%20Airways_WXZ5pqEYadLuCoGq2_1689933930328_completion_certificate.pdf)
